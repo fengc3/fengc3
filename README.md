@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Carl, a front-end developer</h2>
+<h2 align="left">Hey 👋! I'm Carl, a front-end developer</h2>
 
 ###
 
@@ -13,6 +13,7 @@
 
 ###
 
+<h3 align="left">Tools of the trade:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -45,6 +46,7 @@
 
 ###
 
+<h3 align="left">Let's connect:
 <div align="center">
   <a href="https://www.linkedin.com/in/carlfeng/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
